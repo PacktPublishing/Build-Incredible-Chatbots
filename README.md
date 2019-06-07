@@ -1,5 +1,5 @@
 # Build Incredible Chatbots [Video]
-This is the code repository for [Build Incredible Chatbots [Video]](https://www.packtpub.com/in/application-development/build-incredible-chatbots-video). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Build Incredible Chatbots [Video]](https://www.packtpub.com/in/application-development/build-incredible-chatbots-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ## About the Video Course
 Welcome to the most comprehensive and complete bot developer course. In this course, we will go from zero to pro as we build multiple chatbots using a variety of techniques and platforms. We will explore chatbot platforms that do not require you to write code, and all the way to code intensive chatbots that can be built for specialized scenarios.
