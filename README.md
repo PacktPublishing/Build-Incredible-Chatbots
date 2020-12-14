@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/build-incredible-chatbots-video/9781788479653)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Build Incredible Chatbots [Video]
 This is the code repository for [Build Incredible Chatbots [Video]](https://www.packtpub.com/in/application-development/build-incredible-chatbots-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
